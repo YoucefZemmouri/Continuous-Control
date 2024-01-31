@@ -43,6 +43,10 @@ In the jupyter notebook, you can see the training meeting the succes criteria at
 
 ## Results and future work
 
+The following plot shows the 
+
+![image](average_reward_per_episode.png "average reward per episode")
+
 Due to computation limitations, I couldn't do extensive parameters hyper-tuning. As a next step, I would **optimize the** 
 **current DDPG solution**: different actor and critic structures, other noises strategy and different learning rates. 
 Next, I would explore other solutions as A3C, D4PG and PPO.  
