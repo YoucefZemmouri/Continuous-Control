@@ -43,7 +43,7 @@ In the jupyter notebook, you can see the training meeting the succes criteria at
 
 ## Results and future work
 
-The following plot shows the average reward per episode during training. As the average reward per episode reaches 36.58 on episode 170, the problem is solved at episode exceeds 170 where we excced 30 over the last 100 episodes (displayed in the ```Continuous_Control.ipynb``` notebook):
+The following plot shows the average reward per episode during training. As the average reward per episode reaches 36.58 on episode 170, the problem is solved at episode 170 where we excced 30 over the last 100 episodes (displayed in the ```Continuous_Control.ipynb``` notebook):
 
 ```
 Episode 170	Max Score Last: 38.52 	Average Score Last: 36.58 	Average Last 100: 30.05
